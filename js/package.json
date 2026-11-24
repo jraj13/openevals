@@ -24,7 +24,7 @@
   "dependencies": {
     "@langchain/openai": ">=0.4.4",
     "langchain": ">=1.2.27",
-    "langsmith": ">=0.4.6",
+    "langsmith": ">=0.6.0",
     "uuid": "^11.1.0"
   },
   "peerDependencies": {
@@ -180,7 +180,7 @@
     "form-data": ">=4.0.4",
     "glob": ">=10.5.0",
     "js-yaml": ">=4.1.1",
-    "langsmith": ">=0.4.6",
+    "langsmith": ">=0.6.0",
     "lodash": ">=4.17.23",
     "tar": ">=7.5.8",
     "vite": ">=6.4.1 <7"
